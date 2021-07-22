@@ -1,5 +1,2 @@
 User-agent: *
 Allow: /
-Disallow: /nwer/room3/
-Disallow: /nwera/room3/
-Disallow: /nora/room3/
